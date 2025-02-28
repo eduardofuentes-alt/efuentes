@@ -18,6 +18,11 @@ sections:
       also where I’m based. I’m currently a free agent, ex-this, ex-that,
       ex-super big name. When I’m not coding, writing or creating, I eat
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+
+      ## Hola, soy desarrollador. Nací y crecí en el mundo, y eso es
+      también donde estoy basado. Actualmente soy agente libre, ex-esto, ex-aquello,
+      ex-súper gran nombre. Cuando no estoy codificando, escribiendo o creando, como
+      cereales. Tengo un perro, échale un vistazo [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
       url: /images/about.jpg
