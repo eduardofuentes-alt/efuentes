@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hola, mi nombre es Eduardo. I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Hola, mi nombre es Eduardo. Soy desarrollador, artista digital, consultor y un montón de otros Títulos impresionantes y palabras de moda.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Esta es mi información, la comparto con ustedes para impresionarlos con todo el arduo trabajo que he hecho en los últimos años. Una vez que estés impresionado, Puede seguir desplazándose hacia abajo para ver más detalles y credenciales sobre mí.
     styles:
       self:
         height: auto
